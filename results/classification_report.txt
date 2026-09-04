@@ -1,0 +1,9 @@
+                precision    recall  f1-score   support
+
+  correct_belt     0.8846    0.9485    0.9154        97
+incorrect_belt     1.0000    0.9906    0.9953       106
+       no_belt     0.8333    0.7143    0.7692        42
+
+      accuracy                         0.9265       245
+     macro avg     0.9060    0.8844    0.8933       245
+  weighted avg     0.9257    0.9265    0.9249       245

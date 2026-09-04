@@ -1,0 +1,19 @@
+file_path,true_class,predicted_class,confidence
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\correct_belt\1120375_jpg.rf.rQ5zoq0SJwyK1Ee4eafV.jpg,correct_belt,no_belt,0.7696933746337891
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\correct_belt\FPBKKFTZYQZ2_jpg.rf.ZlWmoWHwZsMWhyYgoJTq.jpg,correct_belt,no_belt,0.7939215898513794
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\correct_belt\I0DK0XLM8B30_jpg.rf.ujkV2FILMxX1A7Z51HgF.jpg,correct_belt,no_belt,0.9970455765724182
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\correct_belt\gettyimages-868951010-612x612_jpg.rf.3mvqgffIpJkyBuWizXvi.jpg,correct_belt,no_belt,0.5055063962936401
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\correct_belt\girl-fastened-seat-belt-sits-car-back-young-cheerful-near-window-178425759_jpg.rf.7qKCV6hRi4WVzHJMHcwl.jpg,correct_belt,no_belt,0.6021320223808289
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\incorrect_belt\incorrect_01_00004.jpg,incorrect_belt,no_belt,0.611812174320221
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\-974_jpg.rf.utmFh2PhwmLPwgJTc3jr.jpg,no_belt,correct_belt,0.947009801864624
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\driving-with-disability-adapted-vehicle-1_jpeg.rf.6AEa0UZl0UcnTpBRSqWf.jpeg,no_belt,correct_belt,0.731624186038971
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\new10_jpg.rf.idYqGpShRSixF9DtuO2F.jpg,no_belt,correct_belt,0.9455488920211792
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\new44_jpg.rf.zgex8MY3QwdfC46C4YmZ.jpg,no_belt,correct_belt,0.998578667640686
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\new8_jpg.rf.GZn1Qqe0XKl84vxWAKOE.jpg,no_belt,correct_belt,0.9461021423339844
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\notwearingseatbelt_jpg.rf.sgpMUWqIXAF51UPbiKQc.jpg,no_belt,correct_belt,0.9998652935028076
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\safedriving_000320.jpg,no_belt,correct_belt,0.9999955892562866
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\safedriving_000332.jpg,no_belt,correct_belt,0.9998917579650879
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\safedriving_000366.jpg,no_belt,correct_belt,0.9903698563575745
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\seatbelt-150_jpg.rf.kxPfsXAjf2DSGBR8o5se.jpg,no_belt,correct_belt,0.9965413212776184
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\th (2)_jpg.rf.q9cvnsg3MgLHB7NacRad.jpg,no_belt,correct_belt,0.9912633895874023
+C:\Users\sasha\PycharmProjects\seatbelt_recognition\data\processed\test\no_belt\woman-driving-a-car-while-not-wearing-seatbelt_jpg.rf.gusoJ4GL1NKcouEOMuq5.jpg,no_belt,correct_belt,0.9603074193000793

@@ -1,0 +1,62 @@
+{
+    "classes": [
+        "correct_belt",
+        "incorrect_belt",
+        "no_belt"
+    ],
+    "accuracy": 0.926530612244898,
+    "balanced_accuracy": 0.8844351200896621,
+    "avg_time_per_image_seconds": 0.002821558348986567,
+    "fps": 354.4140777238134,
+    "classification_report": {
+        "correct_belt": {
+            "precision": 0.8846153846153846,
+            "recall": 0.9484536082474226,
+            "f1-score": 0.9154228855721394,
+            "support": 97.0
+        },
+        "incorrect_belt": {
+            "precision": 1.0,
+            "recall": 0.9905660377358491,
+            "f1-score": 0.995260663507109,
+            "support": 106.0
+        },
+        "no_belt": {
+            "precision": 0.8333333333333334,
+            "recall": 0.7142857142857143,
+            "f1-score": 0.7692307692307693,
+            "support": 42.0
+        },
+        "accuracy": 0.926530612244898,
+        "macro avg": {
+            "precision": 0.905982905982906,
+            "recall": 0.8844351200896621,
+            "f1-score": 0.8933047727700059,
+            "support": 245.0
+        },
+        "weighted avg": {
+            "precision": 0.9257456828885401,
+            "recall": 0.926530612244898,
+            "f1-score": 0.9249034389385445,
+            "support": 245.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            92,
+            0,
+            5
+        ],
+        [
+            0,
+            105,
+            1
+        ],
+        [
+            12,
+            0,
+            30
+        ]
+    ],
+    "roc_auc_macro_ovr": 0.9481211007796757
+}
